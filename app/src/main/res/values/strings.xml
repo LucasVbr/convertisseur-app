@@ -8,5 +8,7 @@
         <item>Celsius</item>
         <item>Fahrenheit</item>
         <item>Kelvin</item>
+        <item>Rankine</item>
+        <item>Réaumur</item>
     </string-array>
 </resources>

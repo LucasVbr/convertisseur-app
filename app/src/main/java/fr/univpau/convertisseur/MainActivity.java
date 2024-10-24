@@ -1,3 +1,9 @@
+/*
+ * ConvertisseurMainActivity.java, 24/10/2024
+ * UPPA M2 TI 2024-2025
+ * MIT License (MIT)
+ */
+
 package fr.univpau.convertisseur;
 
 import android.os.Bundle;
@@ -9,7 +15,12 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-public class ConvertisseurMainActivity extends AppCompatActivity {
+/**
+ * Main activity of the application.
+ *
+ * @author LucasVbr
+ */
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
