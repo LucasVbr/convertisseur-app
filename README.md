@@ -8,7 +8,7 @@
 
 > Android application to convert temperature units
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
 
   <img src="./.readme/Screenshot_20241024_144345.png" alt="App overview" width="200"/>
   <img src="./.readme/Screenshot_20241024_144345.png" alt="App inputs" width="200"/>
