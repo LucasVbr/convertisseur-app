@@ -16,7 +16,7 @@
 
 </div>
 
-<img src="./.readme/Screenshot_20241024_144710.png" alt="Landscape view" width="200"/>
+<img src="./.readme/Screenshot_20241024_144710.png" alt="Landscape view"/>
 
 ## Author
 
