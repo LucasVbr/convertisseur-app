@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Convertisseur</string>
+    <string name="text_from">Sélectionnez une unité source</string>
+    <string name="text_to">Sélectionnez une unité cible</string>
+    <string name="input_placeholder">Entrez la valeur</string>
+    <string name="btn_convert">CONVERTIR</string>
+    <string-array name="units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
